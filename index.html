@@ -50,12 +50,13 @@
 						<h1>Editor. Gamer. Storyteller.
 						</h1>
 
-						<h3>Below is a selection of Ethan’s published work from <a
-								href="https://www.dualshockers.com/author/ethan-krieger/" class="fancy-a"
-								target="_blank">DualShockers</a> (gaming) and <a
-								href="https://www.dualshockers.com/author/ethan-krieger/" class="fancy-a"
-								target="_blank">Fansided</a> (sports),
-							<br />covering reviews, guides, features, and interviews.
+						<h3 class="padding-header">A selection of Ethan’s published work from 
+							<a href="https://www.dualshockers.com/author/ethan-krieger/" class="fancy-a"
+								target="_blank"><span class="fancy-editor-text">DualShockers</span></a> (gaming), 
+							<a href="https://8points9seconds.com/author/ekrieger/" class="fancy-a"
+								target="_blank"><span class="fancy-editor-text">Fansided</span></a> (sports), and
+							<a href="https://pelicandebrief.com/author/ekrieger/" class="fancy-a"
+								target="_blank"><span class="fancy-editor-text">Pelican Debrief</span></a> (sports), covering reviews, guides, features, and interviews.
 						</h3>
 					</header>
 					<br />
@@ -223,7 +224,7 @@
 				</a>
 				<h3><a href="${data.url}" target="_blank">${data.title || 'Untitled'}</a></h3>
 				<p style="font-size: 0.85em; color: #888; margin-top: -0.5em;">
-					${data.date ? 'DualShockers • ' + new Date(data.date).toLocaleDateString('en-US', {
+					${data.date ? data.website + ' • ' + new Date(data.date).toLocaleDateString('en-US', {
 					year: 'numeric',
 					month: 'short',
 					day: 'numeric'
