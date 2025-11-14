@@ -305,7 +305,7 @@ h6 a {
 }
 
 h1 {
-  font-size: 120em;
+  font-size: 3.5em;
   margin: 0 0 0.5em 0;
   font-weight: 500;
   letter-spacing: -0.06em;
@@ -2725,7 +2725,7 @@ button:disabled,
   background-color: #edeae7;
   font-size: 0.9em;
   position: relative;
-  width: 24em;
+  width: 18em;
 }
 #sidebar h2 {
   font-size: 1.38889em;
@@ -2733,7 +2733,7 @@ button:disabled,
 #sidebar > .inner {
   padding: 2.22222em 2.22222em 2.44444em 2.22222em;
   position: relative;
-  width: 26em;
+  width: 19em;
 }
 #sidebar > .inner > * {
   /* border-bottom: solid 2px rgba(210, 215, 217, 0.75); */
