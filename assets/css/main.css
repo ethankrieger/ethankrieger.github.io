@@ -104,6 +104,10 @@ section {
   display: block;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   line-height: 1;
 }
@@ -303,17 +307,21 @@ h6 a {
 h1 {
   font-size: 120em;
   margin: 0 0 0.5em 0;
-  font-weight: 400;
+  font-weight: 500;
   letter-spacing: -0.06em;
   line-height: 110%;
+  
 }
 
 h2 {
-  font-size: 2.9em;
+  font-size: 2.3em;
+   font-weight: 500;
+    letter-spacing: -0.06em;
 }
 
 h3 {
   font-size: 1.25em;
+  line-height: 150%;
 }
 
 h4 {
@@ -330,7 +338,7 @@ h6 {
 
 @media screen and (max-width: 1680px) {
   h1 {
-    font-size: 4.6em;
+    font-size: 3.6em;
   }
 }
 
@@ -2255,7 +2263,7 @@ button:disabled,
   
 }
 .mini-posts article p {
-  color: #333;
+  color: rgba(0,0,0,0.48);
   font-size: 11px;
   line-height: 140%;
   padding: 2px 0;
@@ -2285,7 +2293,7 @@ button:disabled,
   font-size: 10px !important;
   letter-spacing: 0.13em;
   padding: 10px 10px 4px 10px; /* top right bottom left*/
-  color: #9a9898;
+  color: rgba(0,0,0,0.48);
 }
 
 /* Features */
@@ -2810,7 +2818,7 @@ button:disabled,
   }
   #sidebar .toggle {
     height: 6.25em;
-    left: 25em;
+    left: 20em;
     line-height: 6.25em;
     text-indent: 5em;
     width: 5em;
@@ -2819,7 +2827,7 @@ button:disabled,
     font-size: 1.5rem;
   }
   #sidebar.inactive {
-    margin-left: -24em;
+    margin-left: -20em;
   }
 }
 @media screen and (max-width: 1280px) {
@@ -3048,10 +3056,10 @@ button:disabled,
   -webkit-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  color: #626262;
+  color: rgba(0,0,0,0.48);
   font-family: "Manrope", sans-serif;
   font-weight: 400;
-  letter-spacing: -0.02em;
+  letter-spacing: -0.01em;
   list-style: none;
   margin-bottom: 0;
   padding: 0;
@@ -3162,7 +3170,7 @@ button:disabled,
   width: 100%;
   border-collapse: collapse;
   color: #000 !important;
-  font-weight: 500;
+  letter-spacing: -0.02em;
 }
 
 .flex-row {
@@ -3216,7 +3224,7 @@ button:disabled,
 
 .filters button {
   background: #edeae7;
-  color: #333 !important;
+  color: rgba(0,0,0,0.9) !important;
   border: none;
   padding: 8px 16px;
   border-radius: 8px;
@@ -3233,7 +3241,8 @@ button:disabled,
 .filters button.active,
 .filters button:hover {
   background: #fff;
-  color: #000;
+  color: #000 !important;
+   font-weight: 500;
 }
 
 /*Sidebar profile photo*/
@@ -3254,7 +3263,6 @@ header.h2 {
 
 .sidebar-top-p {
   font-family: "Manrope", sans-serif;
-  font-style: normal;
   font-size: 16px;
   font-weight: 500;
   letter-spacing: -0.02em;
@@ -3264,12 +3272,11 @@ header.h2 {
 
 .sidebar-bottom-p {
   font-family: "Manrope", sans-serif;
-  font-style: normal;
   font-size: 12px;
-  font-weight: 300;
+  font-weight: 400;
   letter-spacing: -0.02em;
   line-height: 100%;
-  color: #0000007a;
+  color: rgba(0,0,0,0.48);
   margin: 0 !important;
   display: block;
 }
@@ -3347,6 +3354,13 @@ header.h2 {
   line-height: 160%;
 }
 
+@media screen and (max-width: 736px) {
+  .padding-header{
+    padding: 0 !important;
+  }
+}
+
+
 .about-img{
   background-color: #fff;
   border: 6px solid #fff;
@@ -3354,4 +3368,11 @@ header.h2 {
 
 #writings {
   scroll-margin-top: 100px; 
+}
+
+.fav-quotes{
+  color: rgba(0,0,0,0.48);
+  line-height: 160%;
+  padding-bottom: 2%;
+
 }
