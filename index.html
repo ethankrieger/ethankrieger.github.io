@@ -22,7 +22,7 @@
 <body class="is-preload">
 
 	<!-- Wrapper -->
-	<div id="wrapper" data-aos="fade-up">
+	<div id="wrapper">
 
 		<!-- Main -->
 		<div id="main">
@@ -39,7 +39,6 @@
 										<li><a href="https://www.dualshockers.com/author/ethan-krieger/" class="icon solid fa-pen-alt" target="_blank"><span class="label">DualShockers</span></a></li>
 									</ul>
 								</header> -->
-
 				<!-- Banner -->
 				<section class="special">
 					<header>
@@ -67,12 +66,12 @@
 					<br />
 					<br />
 					<br />
-					<br />
-					<div id="writings">
+					<div id="writings" data-aos="fade-up" data-aos-delay="200">
 					<div  class="filters"></div>
 					<div class="posts"></div>
 					</div>
 				</section>
+
 
 				<!-- Footer Section -->
 				<section class="pagie-footer special">
@@ -184,6 +183,10 @@
 	<script src="assets/js/util.js"></script>
 	<script src="assets/js/main.js"></script>
 	<script src="assets/js/video-game-quotes.js"></script>
+	<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+	<script>
+		AOS.init();
+	</script>
 
 	<script>
 		async function buildArticles() {
@@ -265,10 +268,6 @@
 		}
 
 		document.addEventListener('DOMContentLoaded', buildArticles);
-	</script>
-	<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-	<script>
-		AOS.init();
 	</script>
 </body>
 

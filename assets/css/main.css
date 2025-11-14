@@ -182,7 +182,7 @@ html {
 body {
   background: #f4f2f0;
 }
-body.is-preload *,
+/* body.is-preload *,
 body.is-preload *:before,
 body.is-preload *:after,
 body.is-resizing *,
@@ -196,7 +196,7 @@ body.is-resizing *:after {
   -webkit-transition: none !important;
   -ms-transition: none !important;
   transition: none !important;
-}
+} */
 
 /* Type */
 body,
@@ -3351,7 +3351,7 @@ header.h2 {
   background-color: #fff;
   border: 6px solid #fff;
 }
-/* 
+
 #writings {
-  scroll-margin-top: 30px; 
-} */
+  scroll-margin-top: 100px; 
+}
