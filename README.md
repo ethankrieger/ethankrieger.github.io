@@ -24,5 +24,3 @@ Want to work together or geek out about games? Let’s connect.
 ## License
 
 This portfolio and its code are open for inspiration — feel free to explore, but please credit if you use or adapt major parts.
-
-Test comment
