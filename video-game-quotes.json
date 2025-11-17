@@ -1,8 +1,8 @@
 [
-  { "quote": "War. War never changes. — Fallout" },
-  { "quote": "Finish him! — Mortal Kombat" },
-  { "quote": "It's dangerous to go alone! Take this. — The Legend of Zelda" },
-  { "quote": "Would you kindly? — BioShock" },
-  { "quote": "Praise the sun! — Dark Souls" },
-  { "quote": "The cake is a lie. — Portal" }
+  { "quote": "War. War never changes.", "author": "Fallout" },
+  { "quote": "Finish him!", "author": "Mortal Kombat" },
+  { "quote": "It's dangerous to go alone! Take this.", "author": "The Legend of Zelda" },
+  { "quote": "Would you kindly?", "author": "BioShock" },
+  { "quote": "Praise the sun!", "author": "Dark Souls" },
+  { "quote": "The cake is a lie.", "author": "Portal" }
 ]
