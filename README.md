@@ -1,18 +1,18 @@
-# 🎮 Ethan Krieger — Portfolio
+# Ethan Krieger — Portfolio
 
 **Editor. Gamer. Storyteller.**  
-This portfolio showcases a selection of my published work from DualShockers (gaming) and Fansided (sports),
-covering reviews, guides, features, and interviews.
+This portfolio showcases a selection of my published work from [DualShockers](https://www.dualshockers.com/author/ethan-krieger/) (gaming), [8 Points, 9 Seconds](https://8points9seconds.com/author/ekrieger/) (sports), and [Pelican Debrief](https://pelicandebrief.com/author/ekrieger/) (sports), covering reviews, previews, interviews, lists, guides, features, and news.
+
+**[View Portfolio ↗](https://ethankrieger.github.io/)**
 
 ## Let’s Connect
 
-If you’ve made it this far, hi!  
-Want to work together or geek out about games? Let’s connect.
+If you’ve made it this far, hey! Let’s connect!
 
-📫 **[Email ↗](mailto:ethankrieger27@gmail.com)**  
-🌐 **[Portfolio ↗](https://ethankrieger.github.io/)**  
-🐦 **[Twitter ↗](https://x.com/KriegerSouls)**  
-💼 **[LinkedIn ↗](https://www.linkedin.com/in/ethanbkrieger/)**
+- [Email ↗](mailto:ethankrieger27@gmail.com)  
+- [Twitter ↗](https://x.com/KriegerSouls)  
+- [LinkedIn ↗](https://www.linkedin.com/in/ethanbkrieger/)
+- [Instagram ↗](https://www.instagram.com/ethankrieger_/)
 
 ## Credits
 - Akanksha (sayheyakanksha.github.io | @sayheyakanksha)
