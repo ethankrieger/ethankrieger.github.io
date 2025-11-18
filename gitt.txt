@@ -1,8 +1,0 @@
-%echo Generating a GPG key for GitHub
-Key-Type: RSA
-Key-Length: 4096
-Name-Real: Akanksha
-Name-Email: sayheyakanksha@gmail.com
-Expire-Date: 0
-%commit
-%echo Done
