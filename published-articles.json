@@ -1,37 +1,5 @@
 [
   {
-    "title": "2001 in 2018: Watching the Classic for the First Time",
-    "url": "https://indyindies239023656.wordpress.com/2018/08/26/2001-in-2018/",
-    "date": "Aug 26, 2018",
-    "img": "https://indyindies239023656.wordpress.com/wp-content/uploads/2018/08/2001spaceodyssey_1.jpg?q=49&fit=crop&w=360&h=240&dpr=2",
-    "categories": "movies",
-    "website": "Indy Indies"
-  },
-  {
-    "title": "Hereditary Could Be A Horror Classic",
-    "url": "https://indyindies239023656.wordpress.com/2018/08/03/hereditary-could-be-a-horror-classic/",
-    "date": "Aug 3, 2018",
-    "img": "https://indyindies239023656.wordpress.com/wp-content/uploads/2018/08/http_2f2fcdn-cnn-com2fcnnnext2fdam2fassets2f180611215631-hereditary-poster-16x9-story-top-crop.jpg?q=49&fit=crop&w=360&h=240&dpr=2",
-    "categories": "movies",
-    "website": "Indy Indies"
-  },
-  {
-    "title": "Psychokinesis Review",
-    "url": "https://indyindies239023656.wordpress.com/2018/08/03/psychokinesis-review/",
-    "date": "Aug 3, 2018",
-    "img": "https://indyindies239023656.wordpress.com/wp-content/uploads/2018/08/psychokinesis_drupal.jpg?q=49&fit=crop&w=360&h=240&dpr=2",
-    "categories": "movies",
-    "website": "Indy Indies"
-  },
- {
-    "title": "Eighth Grade Review",
-    "url": "https://indyindies239023656.wordpress.com/2018/08/03/eighth-grade-review/",
-    "date": "Aug 3, 2018",
-    "img": "https://indyindies239023656.wordpress.com/wp-content/uploads/2018/08/eighth-grade_edited.jpg?q=49&fit=crop&w=360&h=240&dpr=2",
-    "categories": "movies",
-    "website": "Indy Indies"
-  },
-    {
     "title": "Preview: Hello Sunshine Reveals New Trailer, More Info From Developers",
     "url": "https://www.dualshockers.com/hello-sunshine-reveals-new-trailer-more-info-from-developers/",
     "date": "Dec 4, 2025",
@@ -40,7 +8,7 @@
     "categories": "previews",
     "website": "DualShockers"
   },
-    {
+  {
     "title": "Routine Review",
     "url": "https://thegameslayer.com/reviews/routine-review/",
     "date": "Dec 4, 2025",
@@ -49,16 +17,16 @@
     "categories": "reviews",
     "website": "The Game Slayer"
   },
-    {
+  {
     "title": "Sleep Awake Review",
     "url": "https://www.dualshockers.com/sleep-awake-review/",
     "date": "Dec 2, 2025",
     "excerpt": "No amount of caffeine can save you now.",
-    "img": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2025/11/image-1.jpeg?q=49&fit=crop&w=360&h=240&dpr=2",
+    "img": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2025/11/image-1.jpeg",
     "categories": "reviews",
     "website": "DualShockers"
   },
-    {
+  {
     "title": "20 Games We're Thankful For In 2025",
     "url": "https://www.dualshockers.com/games-we-are-thankful-for-in-2025/",
     "date": "Nov 27, 2025",
@@ -67,7 +35,7 @@
     "categories": "lists",
     "website": "DualShockers"
   },
-    {
+  {
     "title": "Hunter's Moon: A Sovereign Syndicate Adventure Review",
     "url": "https://www.dualshockers.com/hunters-moon-a-sovereign-syndicate-adventure-review/",
     "date": "Nov 24, 2025",
@@ -76,7 +44,7 @@
     "categories": "reviews",
     "website": "DualShockers"
   },
-    {
+  {
     "title": "The Game Awards 2025: Biggest Indie Game Snubs",
     "url": "https://www.dualshockers.com/the-game-awards-2025-indie-game-snubs/",
     "date": "Nov 18, 2025",
@@ -85,7 +53,7 @@
     "categories": "lists",
     "website": "DualShockers"
   },
-    {
+  {
     "title": "The Game Awards 2025: Biggest Sports/Racing Game Nomination Snubs",
     "url": "https://www.dualshockers.com/the-game-awards-2025-biggest-sports-racing-nomination-snubs/",
     "date": "Nov 17, 2025",
@@ -94,7 +62,7 @@
     "categories": "lists",
     "website": "DualShockers"
   },
-    {
+  {
     "title": "Call Of Duty: Black Ops 7: Exposure Mission And Menendez Boss Guide",
     "url": "https://www.dualshockers.com/call-of-duty-black-ops-7-exposure-mission-and-menendez-boss-guide/",
     "date": "Nov 14, 2025",
@@ -2789,5 +2757,37 @@
     "img": "https://images2.minutemediacdn.com/image/upload/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/shape/cover/sport/2d05e10ee917138d3340cdebeca4ddc103e0777612b7debe7cd1a366963a1cc4.jpg",
     "categories": "sports",
     "website": "Pelican Debrief"
+  },
+  {
+    "title": "2001 in 2018: Watching the Classic for the First Time",
+    "url": "https://indyindies239023656.wordpress.com/2018/08/26/2001-in-2018/",
+    "date": "Aug 26, 2018",
+    "img": "https://indyindies239023656.wordpress.com/wp-content/uploads/2018/08/2001spaceodyssey_1.jpg?q=49&fit=crop&w=360&h=240&dpr=2",
+    "categories": "movies",
+    "website": "Indy Indies"
+  },
+  {
+    "title": "Hereditary Could Be A Horror Classic",
+    "url": "https://indyindies239023656.wordpress.com/2018/08/03/hereditary-could-be-a-horror-classic/",
+    "date": "Aug 3, 2018",
+    "img": "https://indyindies239023656.wordpress.com/wp-content/uploads/2018/08/http_2f2fcdn-cnn-com2fcnnnext2fdam2fassets2f180611215631-hereditary-poster-16x9-story-top-crop.jpg?q=49&fit=crop&w=360&h=240&dpr=2",
+    "categories": "movies",
+    "website": "Indy Indies"
+  },
+  {
+    "title": "Psychokinesis Review",
+    "url": "https://indyindies239023656.wordpress.com/2018/08/03/psychokinesis-review/",
+    "date": "Aug 3, 2018",
+    "img": "https://indyindies239023656.wordpress.com/wp-content/uploads/2018/08/psychokinesis_drupal.jpg?q=49&fit=crop&w=360&h=240&dpr=2",
+    "categories": "movies",
+    "website": "Indy Indies"
+  },
+  {
+    "title": "Eighth Grade Review",
+    "url": "https://indyindies239023656.wordpress.com/2018/08/03/eighth-grade-review/",
+    "date": "Aug 3, 2018",
+    "img": "https://indyindies239023656.wordpress.com/wp-content/uploads/2018/08/eighth-grade_edited.jpg?q=49&fit=crop&w=360&h=240&dpr=2",
+    "categories": "movies",
+    "website": "Indy Indies"
   }
 ]
